@@ -1,11 +1,8 @@
 # Transcribe Audio and Video to text
 
-
-
 ## live site
 
 [https://media2txt.streamlit.app/](https://media2txt.streamlit.app/)
-
 
 ## Supported Languages
 
