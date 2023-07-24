@@ -13,7 +13,7 @@
 
 ## Project installation
 
-```bash
+```python
 
 New-Item main.py, transcribe.py, .env
 
