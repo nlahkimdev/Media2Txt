@@ -7,6 +7,12 @@
 [https://media2txt.streamlit.app/](https://media2txt.streamlit.app/)
 
 
+## Supported Languages
+
+[See Here](https://www.assemblyai.com/docs/Concepts/supported_languages)
+
+## Project installation
+
 ```bash
 
 New-Item main.py, transcribe.py, .env
@@ -20,6 +26,7 @@ venv/Scripts/activate
 pip install streamlit requests python-dotenv assemblyai
 
 streamlit run main.py
+
 ```
 
 ## Get your Assemblyai API TOKEN
